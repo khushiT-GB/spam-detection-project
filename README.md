@@ -146,6 +146,6 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-**Adarsh**
+**Khushi Tiwary**
 🚀 Building AI systems to solve real-world problems
 
